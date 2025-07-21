@@ -1,0 +1,1 @@
+Welcome. Our project is titled NGO Donation and Volunteer Tracker. It is built using Java and MySQL. The goal is to help NGOs manage their donors and volunteers more efficiently. The user can add or view donors and volunteers through a simple console interface. The data is securely stored in a database. In future, we can upgrade it to a full web portal. Thank you.”
